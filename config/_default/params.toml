@@ -32,7 +32,6 @@ description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji
   showReadingTime = true
   showWordCount = true 
   sharingLinks = ["facebook", "twitter", "reddit", "linkedin", "email"]
-  showHeadingAnchors = true
 
 [list]
   showBreadcrumbs = true
