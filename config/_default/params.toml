@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "avocado"
-darkMode = "auto"
+colorScheme = "ocean"
+darkMode = false
 darkToggle = true
 logo = "logo.png"
 description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji hakkında ilgimi çeken kobuları bu blogta paylaşıyorum."
@@ -24,8 +24,8 @@ description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  showEdit = true
+  editURL = "https://github.com/GorkemGuray/gorkem_co/tree/master/content"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -35,7 +35,7 @@ description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji
 
 [list]
   showBreadcrumbs = true
-  showSummary = true
+  showSummary = false
   groupByYear = true
 
 [taxonomy]
