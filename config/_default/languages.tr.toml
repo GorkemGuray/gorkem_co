@@ -12,14 +12,14 @@ description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji
 
 copyright = "&copy; 2022 Görkem Güray"
 
-dateFormat = "2 Ocak 2006"
+dateFormat = "2 January 2006"
 
 [author]
   name = "Görkem Güray"
   image = "avatar_gorkem_guray.jpg"
   bio = "Elektrik/Elektronik Mühendisi, Endüstriyel Otomasyon Programcısı, Yazılım ve Teknoloji Sever."
    links = [
-     { email = "mailto:gorkemguray@protonmail.com" },
+     { email = "mailto:mail@gorkem.co" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },

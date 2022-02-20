@@ -4,7 +4,7 @@ date: 2022-02-18T23:56:26+03:00
 categories: ['Yazılım']
 tags: ['veri yapıları','algoritmalar','linked list']
 description: ""
-draft: false
+draft: true
 ---
 {{<figure src="veri_yapilari_ve_algoritmalar.png">}}
 
