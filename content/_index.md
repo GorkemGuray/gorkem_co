@@ -11,7 +11,7 @@ description: "Görkem Güray Kişisel Web Sitesi"
 
 <p style='text-align: justify;'>Yazılım, Elektronik ve Teknoloji hakkında ilgimi çeken konuları bu blogta paylaşıyorum. </p>
 
-<p style='text-align: justify;'>Bana ulaşmak için <a href="mailto:gorkemguray@protonmail.com">e-Posta</a> yollayabilir veya yukarıda linkini verdiğim platformları kullabilirsiniz. </p>
+<p style='text-align: justify;'>Bana ulaşmak için <a href="mailto:mail@gorkem.co">e-Posta</a> yollayabilir veya yukarıda linkini verdiğim platformları kullabilirsiniz. </p>
 
  
 

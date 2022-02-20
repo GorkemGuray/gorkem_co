@@ -6,11 +6,16 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "ocean"
-darkMode = false
-darkToggle = true
-logo = "logo.png"
-description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji hakkında ilgimi çeken kobuları bu blogta paylaşıyorum."
-# mainSections = ["section1", "section2"]
+defaultAppearance = "light"
+autoSwitchAppearance = true
+showAppearanceSwitcher = true
+
+enableSearch = true
+enableCodeCopy = true
+
+showScrollToTop = true
+
+# mainSections = ["samples"]
 # robots = ""
 
 [homepage]
@@ -19,8 +24,7 @@ description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji
 
 [article]
   showDate = true
-  dateFormat = "02.01.2006"
-  #dateFormat = "2 January 2006"
+  showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
@@ -29,13 +33,17 @@ description = "Görkem Güray Kişisel Blogu. Yazılım, elektronik ve teknoloji
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
+  invertPagination = false
   showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = false
   showWordCount = true 
   sharingLinks = ["facebook", "twitter", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = true
   showSummary = false
+  showTableOfContents = true
   groupByYear = true
 
 [taxonomy]

@@ -1,10 +1,10 @@
 ---
 title: "Veri Yapıları Ve Algoritmalar"
-date: 2022-01-24T23:56:26+03:00
+date: 2022-02-18T23:56:26+03:00
 categories: ['Yazılım']
 tags: ['veri yapıları','algoritmalar','linked list']
 description: ""
-draft: true
+draft: false
 ---
 {{<figure src="veri_yapilari_ve_algoritmalar.png">}}
 
