@@ -1,7 +1,7 @@
-languageCode = "en-en"
+languageCode = "en-us"
 languageName = "English"
-displayName = ":flag-en:"
-isoCode = "en-EN"
+displayName = "English"
+isoCode = "en-US"
 weight = 2
 rtl = false
 
@@ -15,7 +15,7 @@ copyright = "&copy; 2022 Gorkem Guray"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Gorkem Goray"
+  name = "Gorkem Guray"
   image = "avatar_gorkem_guray.jpg"
   bio = "Electrical & Electronics Engineer, Industrial Automation Programmer, Software and Technology Enthusiast."
    links = [
