@@ -8,15 +8,24 @@
 colorScheme = "ocean"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-showAppearanceSwitcher = true
+
 
 enableSearch = true
 enableCodeCopy = true
 
-showScrollToTop = true
+
 
 # mainSections = ["samples"]
 # robots = ""
+
+[header]
+  layout = "basic" # valid options: basic, hamburger, custom
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
