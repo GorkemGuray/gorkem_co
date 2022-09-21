@@ -5,6 +5,11 @@ categories: ['Otomasyon']
 tags: ['Sysmac Studio','Omron','Otomasyon','TON','Timer','On-Delay Timer','PLC','NJ-PLC','Ladder','Omron Function']
 description: "Sysmac Studio’daki Timer fonksiyonları, zamana bağlı işlemleri kontrol etmek amacıyla kullanılmaktadır. TON Timer, zamanlayıcı başladıktan sonra ayarlanan süre geçtiğinde TRUE verir."
 draft: false
+twitter:
+- card: "summary_large_image"
+- site: "@grkmgry"
+- creator: "@grkmgry"
+- image: "sysmac_studio_timer_fonksiyonlari_ton.png"
 ---
 ![Sysmac Studio Timer Fonksiyonları - TON](sysmac_studio_timer_fonksiyonlari_ton.png)
 
